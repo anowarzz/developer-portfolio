@@ -43,11 +43,12 @@ background-position: right;
   background-position:left;
 }
 .experience-item{
-  width:100%;
+  width:80%;
   margin-left:5%;
   margin-right: 5%;
   padding-left:10px;
   border-radius:10px;
+  padding-right:10px;
   box-shadow:10px 10px 40px gray;
 }
 #full-stack-developer{
